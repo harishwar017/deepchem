@@ -146,7 +146,7 @@ DeepChem is managed by a team of open source contributors. Anyone is free to joi
 
 If you have used DeepChem in the course of your research, we ask that you cite the "Deep Learning for the Life Sciences" book by the DeepChem core team.
 
-To cite this book, please use this bibtex entry:
+To cite this books, please use this bibtex entry:
 
 ```
 @book{Ramsundar-et-al-2019,
