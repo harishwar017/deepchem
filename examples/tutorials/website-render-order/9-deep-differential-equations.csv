@@ -3,3 +3,4 @@ Physics Informed Neural Networks Burgers Equation,Physics_Informed_Neural_Networ
 Introducing_JaxModel_and_PINNModel,Introducing_JaxModel_and_PINNModel.ipynb
 About_nODE_Using_Torchdiffeq_in_Deepchem,About_nODE_Using_Torchdiffeq_in_Deepchem.ipynb
 Differentiation Infrastructure in Deepchem,Differentiation_Infrastructure_in_Deepchem.ipynb
+Computational Fluid Dynamics (CFD) Introduction,CFD_Theory_Tutorial.ipynb
