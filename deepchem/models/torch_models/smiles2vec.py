@@ -33,7 +33,6 @@ class Smiles2Vec(nn.Module):
     Predicting Chemical Properties" (https://arxiv.org/pdf/1712.02034.pdf)
     .. [2] Chemnet (https://arxiv.org/abs/1712.02734)
     """
-
     def __init__(
         self,
         char_to_idx: Dict,
